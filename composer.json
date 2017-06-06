@@ -1,0 +1,16 @@
+{
+	"name": "kehikko/route/common",
+	"type": "kehikko/route",
+	"description": "Common UI features for kehikko framework",
+	"license": "MIT",
+	"authors": [
+	{
+		"name": "Antti Partanen",
+		"email": "aehparta@iki.fi"
+	}],
+	"require":
+	{
+		"php": ">=7.0.0",
+		"kehikko/composer": "*"
+	}
+}
