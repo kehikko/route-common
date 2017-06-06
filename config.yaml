@@ -1,0 +1,9 @@
+css:
+  - jquery-ui.min.css
+  - font-awesome.min.css
+  - common.css
+
+javascript:
+  - jquery-ui.min.js
+  - jquery.lazyload.js
+  - twig: common.js
