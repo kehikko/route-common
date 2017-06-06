@@ -1,5 +1,5 @@
 {
-	"name": "kehikko/route/common",
+	"name": "kehikko/route-common",
 	"type": "kehikko/route",
 	"description": "Common UI features for kehikko framework",
 	"license": "MIT",
